@@ -1,0 +1,7 @@
+{
+  "name": "Market App",
+  "short_name": "Market",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#00a650"
+}
